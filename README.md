@@ -1,9 +1,10 @@
 
-
 <p align="center">
   <a target="_blank" href="https://github.com/moruzerinho6">
     <img  src="https://cdn.discordapp.com/emojis/317871174266912768.png" style="max-width:100%;">
   </a>
+</p>
+<p align="center">
   <a target="_blank" href="https://github.com/Tiny-Foxes">
     <img alt="Tiny Foxes" src="https://avatars3.githubusercontent.com/u/66173034?s=200&v=4" style="max-width:100%;">
   </a>
