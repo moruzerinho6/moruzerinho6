@@ -17,9 +17,9 @@
 </p>
 
   Hello, my name is Jorge Luiz and I do some NodeJS Stuff.
-  I also manage the Tiny Foxes org, with awesome people making stepmania internalization better.
-  And I'm part of the Moondance Staff Team in the Discord and Forum.
-
+  
+  I manage [StepMania Outfox 5.3](https://projectmoon.dance/) Discord Server/Forum and its translations with [Tiny-Foxes](https://github.com/Tiny-Foxes). [SwitchbladeBot](https://github.com/SwitchbladeBot/switchblade) Command Team lead and maker of [Zerinho6 Bot](https://github.com/zerinho6Bot/Zerinho6-Bot).
+  
 <!--
 **moruzerinho6/moruzerinho6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
