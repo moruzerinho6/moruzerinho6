@@ -11,6 +11,9 @@
   <a target="_blank" href="https://discord.gg/3DgsbSg">
     <img alt="Project Moondance" src="https://media.discordapp.net/attachments/499671331021914132/733668674744877096/navbar-logo.png" style="max-width:100%;">
   </a>
+  <a target="_blank" href="https://switchblade.xyz/">
+    <img alt="SwitchbladeBot" src="https://avatars1.githubusercontent.com/u/39246832?s=200&v=4" style="max-width:100%;">
+  </a>
 </p>
 
   Hello, my name is Jorge Luiz and I do some NodeJS Stuff.
