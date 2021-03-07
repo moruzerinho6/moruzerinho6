@@ -1,7 +1,7 @@
 
 Hello, my name is Jorge Luiz(Known as "zerinho6", "moru" or "moruzerinho6" online) and I do some NodeJS Stuff.
   
-  I manage [StepMania Outfox 5.3](https://projectmoon.dance/) Discord Server/Forum and its translations with [Tiny-Foxes](https://github.com/Tiny-Foxes). [SwitchbladeBot](https://github.com/SwitchbladeBot/switchblade) Command Team lead and maker of [Zerinho6 Bot](https://github.com/zerinho6Bot/Zerinho6-Bot). Someday I hope to join [Team Rizu](https://github.com/TeamRizu) as a translator manager.
+  I manage [StepMania Outfox 5.3](https://projectmoon.dance/) Discord Server/Forum and its translations with [Tiny-Foxes](https://github.com/Tiny-Foxes). [SwitchbladeBot](https://github.com/SwitchbladeBot/switchblade) Command Team lead and maker of [Zerinho6 Bot](https://github.com/zerinho6Bot/Zerinho6-Bot).
 
 [Check my roadmap](https://github.com/users/moruzerinho6/projects/1) for projects I want to finish/work on.
 
