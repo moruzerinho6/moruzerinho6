@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/moru_zerinho6" target="blank"><img src="https://img.shields.io/twitter/follow/moru_zerinho6?logo=twitter&style=for-the-badge" alt="moru_zerinho6" /></a> </p>
 
-- 🔭 I’m currently working on [Project Outfox](https://projectmoon.dance/)
+- 🔭 I’m currently working on [Project OutFox](https://projectoutfox.com/)
 
-- 🌱 I’m currently learning **Lua and more Web Dev**
+- 🌱 I’m currently learning **Web Dev and Community Management**
 
 - 👯 I’m looking to collaborate on [Team Rizu](https://github.com/TeamRizu)
 
